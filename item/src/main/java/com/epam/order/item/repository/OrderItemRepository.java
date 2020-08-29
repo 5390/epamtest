@@ -7,5 +7,4 @@ import com.epam.order.item.model.OrderItem;
 
 @Repository
 public interface OrderItemRepository extends JpaRepository<OrderItem, Long>{
-
 }
